@@ -12,6 +12,7 @@ Inspiré de [esx_drugs](https://github.com/esx-framework/esx_drugs)
 * [es_extended (v1-final)](https://github.com/esx-framework/es_extended/tree/v1-final)
 * [esx_service](https://github.com/esx-framework/esx_service)
 * [esx_skin](https://github.com/esx-framework/esx_skin)
+* [esx_basicneeds](https://github.com/esx-framework/esx_basicneeds)
 * [progressBars](https://github.com/EthanPeacock/progressBars/tree/1.0)
 
 # Installation :
