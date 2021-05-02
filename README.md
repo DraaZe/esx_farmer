@@ -24,4 +24,6 @@ __BIENTOT__
 
 # Installation :
 ## Manuellement
-soon
+* Télécharger [esx_farmer]()
+* Importer le ```.sql```
+* Rajouter ceci dans le ```server.cfg``` : ```ensure esx_farmer```
