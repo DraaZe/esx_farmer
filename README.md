@@ -1,6 +1,13 @@
 # esx_farmer
 Inspiré de [esx_drugs](https://github.com/esx-framework/esx_drugs)
 
+## Mes informations :
+* [Discord](https://discord.gg/qTepCgP2qs)
+* [Youtube](https://www.youtube.com/channel/UCdqvFyVqinfiLPVvrWfv6tw)
+
+# Prévisualisation :
+__BIENTOT__
+
 # Fonctionnalités :
 * Système de vestiaire avec prise de service
 * Système de récolte original
